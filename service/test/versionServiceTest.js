@@ -1,0 +1,2 @@
+const versionService = require('../versionService');
+
